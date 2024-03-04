@@ -1,0 +1,1 @@
+Please find our work within the [Data School team](https://github.com/orgs/CentreForDigitalHumanities/teams/data-school) of the [Centre for Digital Humanities](https://github.com/orgs/CentreForDigitalHumanities/).
